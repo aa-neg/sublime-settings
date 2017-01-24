@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Babel Snippets",
+		"C# Compile & Run",
+		"C# Snippets",
+		"CJSX Syntax",
+		"Ensime",
+		"Jade",
+		"JSTL syntax",
+		"JSX",
+		"Package Control",
+		"phJade",
+		"React ES6 Snippets",
+		"react-native-snippets",
+		"ReactJS",
+		"SublimeLinter-jsxhint",
+		"TypeScript",
+		"TypescriptCompletion",
+		"Vintageous"
+	],
+	"repositories":
+	[
+		"https://github.com/username/repo",
+		"https://bitbucket.org/username/repository"
+	]
+}
